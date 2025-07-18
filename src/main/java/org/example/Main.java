@@ -5,5 +5,8 @@ public class Main {
         System.out.println("git init");
 	System.out.println("test");
 	System.out.println("test222");
+	System.out.println("test222");
+	System.out.println("test222");
+	System.out.println("test222");
     }
 }
